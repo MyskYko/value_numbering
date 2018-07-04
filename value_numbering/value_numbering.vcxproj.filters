@@ -26,17 +26,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="code.txt">
-      <Filter>リソース ファイル</Filter>
-    </Text>
-    <Text Include="code2.txt">
-      <Filter>リソース ファイル</Filter>
-    </Text>
-    <Text Include="code3.txt">
-      <Filter>リソース ファイル</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="node.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
@@ -46,5 +35,22 @@
     <ClInclude Include="procedure.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test_code\experiment1.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
+    <Text Include="test_code\experiment2.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
+    <Text Include="test_code\experiment3.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
+    <Text Include="test_code\experiment4.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
+    <Text Include="test_code\experiment5.txt">
+      <Filter>リソース ファイル</Filter>
+    </Text>
   </ItemGroup>
 </Project>

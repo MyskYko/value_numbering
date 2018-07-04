@@ -1,0 +1,4 @@
+a = b;
+r0 = a;
+a = r0;
+return a, r0;

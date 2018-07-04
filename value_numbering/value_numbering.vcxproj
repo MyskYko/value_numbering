@@ -26,14 +26,16 @@
     <ClCompile Include="procedure.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="code.txt" />
-    <Text Include="code2.txt" />
-    <Text Include="code3.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="procedure.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="parser.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test_code\experiment1.txt" />
+    <Text Include="test_code\experiment2.txt" />
+    <Text Include="test_code\experiment3.txt" />
+    <Text Include="test_code\experiment4.txt" />
+    <Text Include="test_code\experiment5.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

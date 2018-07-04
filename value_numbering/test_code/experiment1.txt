@@ -1,0 +1,4 @@
+m = i + 3;
+j = i;
+n = j + 3;
+return m, n;

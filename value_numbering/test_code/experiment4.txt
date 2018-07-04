@@ -1,0 +1,8 @@
+g=x+y;
+h=u-v;
+i=x+y;
+x=u-v;
+u=g+h;
+v=i+x;
+w=u+v;
+return g, h, i, x, u, v, w;
